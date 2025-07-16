@@ -1,11 +1,10 @@
 [project]
-name = "wherex"
+name = "backend"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "mgiks",email = "lidamil6785@gmail.com"}
+    {name = "mgik",email = "lidamil6785@gmail.com"}
 ]
-license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
